@@ -189,9 +189,9 @@ COLORREF CImageConvolutionView::Convolve(CDC* pDC, int sourcex, int sourcey, flo
 {
 	float rSum = 0, gSum = 0, bSum = 0, kSum = 0;
 	COLORREF clrReturn = RGB(0,0,0);
-	for (int i=0; i <= 2; i++)//loop through rows
+	for (int i=0; i <= 4; i++)//loop through rows
 	{
-		for (int j=0; j <= 2; j++)//loop through columns
+		for (int j=0; j <= 4; j++)//loop through columns
 		{
 			//get pixel near source pixel
 			/*
