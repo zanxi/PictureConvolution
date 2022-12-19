@@ -1,0 +1,7 @@
+﻿  ImageConvolutionView.cpp
+C:\_2022___\_Rabota__HH__Source_4__\ImageConvolution__\ImageConvolutionView.cpp(248,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\_2022___\_Rabota__HH__Source_4__\ImageConvolution__\ImageConvolutionView.cpp(249,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\_2022___\_Rabota__HH__Source_4__\ImageConvolution__\ImageConvolutionView.cpp(250,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\_2022___\_Rabota__HH__Source_4__\ImageConvolution__\ImageConvolutionView.cpp(251,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+ConvolveDlg.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  ImageConvolution.vcxproj -> C:\_2022___\_Rabota__HH__Source_4__\ImageConvolution__\Debug\ImageConvolution.exe
